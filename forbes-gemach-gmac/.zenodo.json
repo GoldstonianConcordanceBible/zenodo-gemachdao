@@ -1,0 +1,61 @@
+{
+  "title": "Gemach (GMAC) — Forbes Digital Assets Listing Snapshot (Archived Evidence + Metadata Crosswalk)",
+  "upload_type": "dataset",
+  "publication_date": "2026-01-30",
+  "version": "2026.01.30",
+  "description": "Citable archival snapshot of the Forbes Digital Assets listing page for Gemach (GMAC). This deposit packages timestamped evidence files (PDF/PNG screenshot and minimal metadata JSON) to preserve a verifiable reference even if access restrictions or page changes occur. Cross-references to CoinMarketCap, CoinGecko, Binance, Yahoo Finance, and Gemach documentation are included for market-data triangulation.",
+  "creators": [
+    { "name": "Gemach DAO", "type": "organizational" },
+    { "name": "Goldston, Justin", "type": "personal" }
+  ],
+  "keywords": [
+    "Gemach",
+    "GMAC",
+    "Forbes Digital Assets",
+    "cryptocurrency listing",
+    "crypto market data",
+    "price chart",
+    "token metadata",
+    "Web3",
+    "DAO token",
+    "archival snapshot",
+    "evidence package",
+    "CoinMarketCap",
+    "CoinGecko",
+    "Binance",
+    "Yahoo Finance"
+  ],
+  "license": "CC-BY-4.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://www.forbes.com/digital-assets/assets/gemach-gmac/",
+      "relation": "isReferencedBy",
+      "resource_type": "webpage"
+    },
+    {
+      "identifier": "https://coinmarketcap.com/currencies/gemach/",
+      "relation": "references",
+      "resource_type": "webpage"
+    },
+    {
+      "identifier": "https://www.coingecko.com/en/coins/gemach",
+      "relation": "references",
+      "resource_type": "webpage"
+    },
+    {
+      "identifier": "https://www.binance.com/en/price/gemach",
+      "relation": "references",
+      "resource_type": "webpage"
+    },
+    {
+      "identifier": "https://sg.finance.yahoo.com/quote/GMAC-USD/",
+      "relation": "references",
+      "resource_type": "webpage"
+    },
+    {
+      "identifier": "https://docs.gemach.io/gemach-dao/ecosystem-tokens/gmac",
+      "relation": "isDocumentedBy",
+      "resource_type": "webpage"
+    }
+  ]
+}
