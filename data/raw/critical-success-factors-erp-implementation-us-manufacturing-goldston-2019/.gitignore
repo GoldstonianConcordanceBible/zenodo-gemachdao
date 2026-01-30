@@ -1,0 +1,6 @@
+# Python / OS
+__pycache__/
+.DS_Store
+
+# Derived artifacts (keep structure, ignore big intermediates if desired)
+data/derived/tmp/
