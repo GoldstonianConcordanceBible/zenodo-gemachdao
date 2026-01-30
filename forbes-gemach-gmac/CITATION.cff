@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you reference this archival snapshot, please cite it."
+title: "Gemach (GMAC) — Forbes Digital Assets Listing Snapshot (Archived Evidence + Metadata Crosswalk)"
+type: dataset
+version: 2026.01.30
+date-released: "2026-01-30"
+authors:
+  - name: "Gemach DAO"
+  - name: "Goldston, Justin"
+url: "https://www.forbes.com/digital-assets/assets/gemach-gmac/"
+keywords:
+  - Gemach
+  - GMAC
+  - Forbes Digital Assets
+  - cryptocurrency listing
+  - crypto market data
+  - archival snapshot
+  - evidence package
+references:
+  - type: webpage
+    title: "Forbes Digital Assets — Gemach (GMAC)"
+    url: "https://www.forbes.com/digital-assets/assets/gemach-gmac/"
+  - type: webpage
+    title: "CoinMarketCap — Gemach"
+    url: "https://coinmarketcap.com/currencies/gemach/"
+  - type: webpage
+    title: "CoinGecko — Gemach"
+    url: "https://www.coingecko.com/en/coins/gemach"
+  - type: webpage
+    title: "Binance — Gemach price"
+    url: "https://www.binance.com/en/price/gemach"
+  - type: webpage
+    title: "Yahoo Finance — GMAC-USD"
+    url: "https://sg.finance.yahoo.com/quote/GMAC-USD/"
+  - type: webpage
+    title: "Gemach Docs — GMAC token"
+    url: "https://docs.gemach.io/gemach-dao/ecosystem-tokens/gmac"
