@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this snapshot, please cite it as software."
+title: "GemachDAO (GitHub Organization) Snapshot: Founding Proof + Research Lineage (Gemach D.A.T.A. I)"
+type: software
+version: 1.0.0
+date-released: "2026-01-30"
+authors:
+  - name: "Gemach DAO"
+  - name: "Gemach D.A.T.A. I"
+  - name: "Goldston, Justin"
+repository-code: "https://github.com/GemachDAO"
+url: "https://github.com/GemachDAO"
+keywords:
+  - DAO
+  - on-chain AI
+  - AI agents
+  - multi-agent systems
+  - Solidity
+  - smart contracts
+  - governance
+  - incentivized symbiosis
+  - human-agent coevolution
+  - Gemach D.A.T.A. I
+  - Harvard ADS
+  - Smithsonian Astrophysical Observatory
+  - NASA cooperative agreement
+references:
+  - type: article
+    title: "Incentivized Symbiosis: A Paradigm for Human-Agent Coevolution"
+    url: "https://arxiv.org/abs/2412.06855"
+  - type: webpage
+    title: "NASA/Harvard ADS record"
+    url: "https://ui.adsabs.harvard.edu/abs/2024arXiv241206855J/abstract"
+  - type: webpage
+    title: "ADS operations statement (SAO under NASA Cooperative Agreement)"
+    url: "https://ui.adsabs.harvard.edu/about/history/"
