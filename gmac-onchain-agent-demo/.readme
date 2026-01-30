@@ -1,0 +1,29 @@
+# GMAC On-Chain AI Agent — DOI Pack
+
+This repository is a structured “DOI-ready” package for the **On-chain AI agent demo** and its supporting artifacts:
+- Multi-chain deployments (Ethereum, BNB Chain, Arbitrum, Avalanche, Polygon, Optimism, Fraxtal)
+- Token-gated access (must hold **$GMAC**)
+- Transaction fee model
+- Deployment registry + verification links
+- Citation + DOI metadata (Zenodo/Figshare/Dataverse compatible)
+
+## Demo Video
+- YouTube: https://youtu.be/c4HuY1C_lb4?si=S4GIgaMa-4gaNvEZ
+
+## What to add next
+1. **deployments/chains/**: contract addresses, explorer links, verification notes
+2. **protocol/**: architecture, token-gating rules, fee schedule
+3. **contracts/**: source, interfaces, tests, audit notes
+4. **doi/**: mintable metadata + checksums for release bundles
+
+## Release bundles (recommended)
+Create a tagged release containing:
+- `/doi/*`
+- `/deployments/*`
+- `/protocol/*`
+- `/contracts/*` (or source links if private)
+
+Then upload that release bundle to Zenodo/Figshare to mint a DOI.
+
+## License
+See `LICENSE`.
