@@ -1,0 +1,31 @@
+{
+  "title": "On-chain AI Agent Demo: $GMAC Token-Gated Agent with Transaction Fees (Ethereum, BNB Chain, Arbitrum, Avalanche, Polygon, Optimism, Fraxtal)",
+  "upload_type": "software",
+  "publication_date": "2026-01-29",
+  "description": "Demo of an on-chain AI agent deployed across Ethereum, BNB Chain, Arbitrum, Avalanche, Polygon, Optimism, and Fraxtal. The agent charges protocol fees on each transaction. Access is token-gated: users must hold $GMAC to use the agent.",
+  "creators": [
+    { "name": "Goldston, Justin", "affiliation": "TBD" }
+  ],
+  "keywords": [
+    "on-chain AI agent",
+    "token gating",
+    "GMAC",
+    "Ethereum",
+    "BNB Chain",
+    "Arbitrum",
+    "Avalanche",
+    "Polygon",
+    "Optimism",
+    "Fraxtal",
+    "Web3",
+    "transaction fees"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://youtu.be/c4HuY1C_lb4?si=S4GIgaMa-4gaNvEZ",
+      "relation": "isSupplementTo",
+      "resource_type": "audiovisual"
+    }
+  ],
+  "license": "MIT"
+}
