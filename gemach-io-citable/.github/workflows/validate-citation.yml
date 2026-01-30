@@ -1,0 +1,35 @@
+name: Validate Citation Files
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Validate CITATION.cff (basic)
+        run: |
+          python - << 'PY'
+          import sys, yaml
+          p="CITATION.cff"
+          with open(p,"r",encoding="utf-8") as f:
+            data=yaml.safe_load(f)
+          required=["cff-version","title","message","version","date-released","authors"]
+          missing=[k for k in required if k not in data]
+          if missing:
+            print("Missing keys:", missing)
+            sys.exit(1)
+          print("CITATION.cff looks OK.")
+          PY
+
+      - name: Validate codemeta.json (basic JSON parse)
+        run: |
+          python - << 'PY'
+          import json
+          with open("codemeta.json","r",encoding="utf-8") as f:
+            json.load(f)
+          print("codemeta.json parses OK.")
+          PY
