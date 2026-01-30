@@ -1,0 +1,22 @@
+{
+  "title": "Critical Success Factors in Enterprise Resource Planning Implementation in U.S. Manufacturing (Dataset)",
+  "upload_type": "dataset",
+  "publication_date": "2019-02-01",
+  "creators": [
+    {
+      "name": "Goldston, Justin Lee"
+    }
+  ],
+  "description": "Dataset release packaging the dissertation PDF and citation metadata for DOI minting (e.g., via Zenodo GitHub integration).",
+  "keywords": [
+    "enterprise resource planning",
+    "ERP",
+    "critical success factors",
+    "Delphi",
+    "manufacturing",
+    "small and medium enterprises",
+    "Walden University",
+    "2019"
+  ],
+  "notes": "After Zenodo minting, update CITATION.cff with the DOI and tag a new release."
+}
