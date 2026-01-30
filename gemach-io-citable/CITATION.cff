@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+title: "Gemach (gemach.io) — Citable Companion Repository"
+type: dataset
+version: 0.1.0
+date-released: "2026-01-29"
+url: "https://gemach.io"
+repository-code: "https://github.com/<ORG_OR_USER>/gemach-io-citable"
+abstract: >
+  A citable, versioned reference layer for the Gemach website and public documentation,
+  including citation metadata and curated public-source links describing Gemach and its products.
+keywords:
+  - Gemach
+  - DeFi
+  - AI
+  - GMAC
+  - on-chain agents
+  - restaking
+license: "CC-BY-4.0"
+authors:
+  - name: "Gemach DAO"
+    website: "https://gemach.io"
+preferred-citation:
+  type: dataset
+  title: "Gemach (gemach.io) — Citable Companion Repository"
+  authors:
+    - name: "Gemach DAO"
+  year: 2026
+  version: 0.1.0
+  url: "https://github.com/<ORG_OR_USER>/gemach-io-citable"
+  notes: "If a DOI exists, cite the DOI-enabled Zenodo record for the release."
