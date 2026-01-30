@@ -1,5 +1,5 @@
 # zenodo-gemachdao (in GCB)
-
+https://doi.org/10.5281/zenodo.18428703
 This folder is a **Zenodo-ready deposit bundle** for archiving and citing the **GemachDAO GitHub Organization snapshot** while preserving:
 1) **Founding proof** (commit: “Create gemach.sol”, authored by `kingassune`, 2021-06-13)
 2) **Academic linkage** (Gemach D.A.T.A. I credited as co-author on arXiv preprint; indexed in Harvard/NASA ADS)
