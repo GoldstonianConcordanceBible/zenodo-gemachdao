@@ -1,0 +1,46 @@
+# Ari (ARI) — Gemach DAO On-Chain Agent TEE on Fraxtal
+
+Ari is a Gemach DAO on-chain agent deployed on the Fraxtal chain. This repository is the **citable, versioned** reference layer for Ari’s deployment metadata, governance pointers, and release artifacts.
+
+## What this repo is for
+- A stable **citation target** (GitHub releases + Zenodo DOI)
+- A clear record of **on-chain addresses** and provenance
+- A place to store **release bundles** (specs, audits, docs, hashes, ABI snapshots, etc.)
+
+## On-chain references (Fraxtal)
+Source: IQ AI “Ari” agent details page. :contentReference[oaicite:1]{index=1}
+
+- **Token contract (ARI):** `0xe622627f9e31eAc59d28BE5B8E032017EB683Ec2` :contentReference[oaicite:2]{index=2}  
+- **Governance contract:** `0xB214b758c35801896175C2735369C494F5D5bB88` :contentReference[oaicite:3]{index=3}  
+- **Agent contract:** `0xcAF1...eC78` (see IQ AI details) :contentReference[oaicite:4]{index=4}  
+- **Liquidity pool:** `0xe4e5...Be16` (see IQ AI details) :contentReference[oaicite:5]{index=5}  
+- **Creator:** `0xdb34...5fea` (see IQ AI details) :contentReference[oaicite:6]{index=6}  
+
+> Notes:
+> - This repo documents the TEE design and implementation details as you add them (architecture, attestation flow, enclaves, threat model, etc.).
+> - Keep any private/security-sensitive material out of public releases; publish only what you intend to be public.
+
+## How to cite
+Once Zenodo is connected, Zenodo will mint a DOI for each GitHub Release and a “concept DOI” for the project.
+
+**Preferred citation (will auto-update once DOI exists):**
+> Gemach DAO. (2026). *Ari (ARI) — Gemach DAO On-Chain Agent TEE on Fraxtal* (Version vX.Y.Z) [Software]. Zenodo. https://doi.org/10.5281/zenodo.XXXXXXX
+
+A machine-readable citation is also in [`CITATION.cff`](./CITATION.cff).
+
+## Zenodo + GitHub release workflow (recommended)
+1. Create a GitHub Release tag, e.g. `v0.1.0`
+2. Include a release bundle in `release/` (see structure below)
+3. Zenodo archives the release and mints a DOI
+4. Copy the DOI badge into this README
+
+## Repository structure
+- `CITATION.cff` — citation metadata for GitHub
+- `zenodo.json` — metadata Zenodo can ingest
+- `docs/` — architecture, TEE design, threat model, API
+- `governance/` — governance notes, proposals, parameters
+- `release/` — versioned release bundles (checksums, ABIs, specs)
+- `references/` — external references anchoring on-chain provenance
+
+## License
+Choose a license appropriate for what you are publishing (code/docs). If unsure, start with `CC-BY-4.0` for docs + `MIT` for code, and be explicit.
