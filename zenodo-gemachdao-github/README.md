@@ -5,16 +5,6 @@ This folder is a **Zenodo-ready deposit bundle** for archiving and citing the **
 2) **Academic linkage** (Gemach D.A.T.A. I credited as co-author on arXiv preprint; indexed in Harvard/NASA ADS)
 3) **Harvard/Smithsonian/NASA ADS operations statement** reference
 
-## Where this goes
-Keep this folder inside your GCB GitHub:
-`/zenodo/zenodo-gemachdao/`
-
-## What you upload to Zenodo
-Upload a single ZIP you generate from `release/BUILD-BUNDLE.md`:
-- curated repo snapshots (optional)
-- this metadata + provenance + research linkage
-- checksums + manifest
-
 ## Quick workflow
 1. Update `.zenodo.json` + `CITATION.cff` with your final creators/version.
 2. Add evidence files:
@@ -30,6 +20,3 @@ Upload a single ZIP you generate from `release/BUILD-BUNDLE.md`:
 - arXiv preprint: https://arxiv.org/abs/2412.06855
 - ADS record: https://ui.adsabs.harvard.edu/abs/2024arXiv241206855J/abstract
 - ADS operations note (SAO under NASA Cooperative Agreement): https://ui.adsabs.harvard.edu/about/history/
-
-> Tip: Zenodo metadata indexing improves when your **Title + Keywords + Related Identifiers**
-> are consistent and when provenance is attached as files (PNG/PDF + JSON).
