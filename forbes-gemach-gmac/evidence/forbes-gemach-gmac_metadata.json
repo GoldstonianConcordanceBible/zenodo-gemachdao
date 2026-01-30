@@ -1,0 +1,23 @@
+{
+  "source_url": "https://www.forbes.com/digital-assets/assets/gemach-gmac/",
+  "source_name": "Forbes Digital Assets",
+  "asset_name": "Gemach",
+  "ticker": "GMAC",
+  "captured_at_utc": "REPLACE_WITH_UTC_TIMESTAMP",
+  "captured_at_local": "REPLACE_WITH_LOCAL_TIMESTAMP_AND_TZ",
+  "capture_method": "REPLACE_WITH_METHOD (e.g., Print to PDF, Full-page screenshot)",
+  "page_title_visible": "REPLACE_WITH_VISIBLE_TITLE",
+  "visible_fields": {
+    "price": "OPTIONAL_IF_VISIBLE",
+    "market_cap": "OPTIONAL_IF_VISIBLE",
+    "volume_24h": "OPTIONAL_IF_VISIBLE",
+    "circulating_supply": "OPTIONAL_IF_VISIBLE",
+    "max_supply": "OPTIONAL_IF_VISIBLE",
+    "rank": "OPTIONAL_IF_VISIBLE"
+  },
+  "access_notes": "REPLACE_WITH_NOTES (e.g., paywall, partial visibility, dynamic content)",
+  "evidence_files": [
+    "evidence/forbes-gemach-gmac_screenshot.pdf",
+    "evidence/forbes-gemach-gmac_screenshot.png"
+  ]
+}
