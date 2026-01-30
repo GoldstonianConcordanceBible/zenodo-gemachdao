@@ -1,0 +1,34 @@
+{
+  "title": "Ari (ARI) — Gemach DAO On-Chain Agent (TEE) on Fraxtal",
+  "upload_type": "software",
+  "description": "Citable release repository for Ari (ARI), a Gemach DAO on-chain agent deployed on the Fraxtal chain. This repo anchors provenance to public chain addresses and packages versioned release artifacts for DOI-based citation via Zenodo.",
+  "creators": [
+    {
+      "name": "Gemach DAO",
+      "affiliation": "Gemach DAO"
+    }
+  ],
+  "keywords": [
+    "Fraxtal",
+    "TEE",
+    "trusted execution environment",
+    "on-chain agent",
+    "governance",
+    "DeFi",
+    "Gemach DAO",
+    "ARI"
+  ],
+  "license": "CC-BY-4.0",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "scheme": "url",
+      "identifier": "https://app.iqai.com/pending/0xe622627f9e31eAc59d28BE5B8E032017EB683Ec2/proposals"
+    },
+    {
+      "relation": "isDocumentedBy",
+      "scheme": "url",
+      "identifier": "https://fraxscan.com/address/0xe622627f9e31eAc59d28BE5B8E032017EB683Ec2"
+    }
+  ]
+}
