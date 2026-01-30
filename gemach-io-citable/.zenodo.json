@@ -1,0 +1,33 @@
+{
+  "title": "Gemach (gemach.io) — Citable Companion Repository",
+  "upload_type": "dataset",
+  "description": "A citable, versioned reference layer for the Gemach website and public documentation, including citation metadata and curated public-source links describing Gemach and its products.",
+  "creators": [
+    {
+      "name": "Gemach DAO",
+      "affiliation": "Gemach",
+      "orcid": ""
+    }
+  ],
+  "keywords": [
+    "Gemach",
+    "DeFi",
+    "AI",
+    "GMAC",
+    "on-chain agents",
+    "restaking"
+  ],
+  "license": "CC-BY-4.0",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://gemach.io",
+      "scheme": "url"
+    },
+    {
+      "relation": "isDocumentedBy",
+      "identifier": "https://docs.gemach.io",
+      "scheme": "url"
+    }
+  ]
+}
