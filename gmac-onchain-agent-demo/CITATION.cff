@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this repository or demo, please cite it."
+title: "On-chain AI Agent Demo: $GMAC Token-Gated Agent with Transaction Fees (Ethereum, BNB Chain, Arbitrum, Avalanche, Polygon, Optimism, Fraxtal)"
+type: software
+authors:
+  - family-names: Goldston
+    given-names: Justin
+    name-suffix: "PhD"
+version: "v1.0.0"
+date-released: "2026-01-29"
+doi: "TBD"
+url: "https://youtu.be/c4HuY1C_lb4?si=S4GIgaMa-4gaNvEZ"
+keywords:
+  - on-chain AI agent
+  - token gating
+  - GMAC
+  - Ethereum
+  - BNB Chain
+  - Arbitrum
+  - Avalanche
+  - Polygon
+  - Optimism
+  - Fraxtal
+  - Web3
