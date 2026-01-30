@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software/artifact, please cite it using the metadata in this file."
+title: "Ari (ARI) — Gemach DAO On-Chain Agent (TEE) on Fraxtal"
+type: software
+version: "0.1.0"
+date-released: "2026-01-29"
+authors:
+  - name: "Gemach DAO"
+    affiliation: "Gemach DAO"
+  # Optional: add individual maintainers
+  # - family-names: "Goldston"
+  #   given-names: "Justin"
+  #   affiliation: "Gemach DAO"
+repository-code: "https://github.com/<YOUR_ORG>/ari-gemachdao-tee-fraxtal-agent"
+url: "https://github.com/<YOUR_ORG>/ari-gemachdao-tee-fraxtal-agent"
+keywords:
+  - Fraxtal
+  - on-chain agent
+  - TEE
+  - trusted execution environment
+  - DeFi
+  - governance
+  - ARI
+  - Gemach DAO
+license: "CC-BY-4.0"
+preferred-citation:
+  type: software
+  title: "Ari (ARI) — Gemach DAO On-Chain Agent (TEE) on Fraxtal"
+  authors:
+    - name: "Gemach DAO"
+  year: 2026
+  version: "0.1.0"
+  # Fill after Zenodo mints a DOI:
+  doi: "10.5281/zenodo.XXXXXXX"
