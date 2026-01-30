@@ -1,0 +1,59 @@
+{
+  "title": "GemachDAO (GitHub Organization): On-Chain Agent Infrastructure, Governance Contracts, and the Gemach D.A.T.A. I Research Lineage (Founding Proof: Create gemach.sol, 2021-06-13)",
+  "upload_type": "software",
+  "publication_date": "2026-01-30",
+  "version": "1.0.0",
+  "description": "GemachDAO is the public GitHub organization anchoring Gemach DAO’s open technical surface area for decentralized governance and on-chain agent infrastructure. This Zenodo deposit preserves a citable snapshot of organization-level repositories and research-linked artifacts, including provenance evidence for the digital founding marker (commit: “Create gemach.sol”, authored by kingassune, 2021-06-13) and research linkage to the arXiv preprint “Incentivized Symbiosis: A Paradigm for Human-Agent Coevolution” (arXiv:2412.06855), indexed by the NASA/Harvard Astrophysics Data System (ADS). ADS is operated by the Smithsonian Astrophysical Observatory under NASA Cooperative Agreement 80NSSC21M0056.",
+  "creators": [
+    { "name": "Gemach DAO", "type": "organizational" },
+    { "name": "Gemach D.A.T.A. I", "type": "organizational" },
+    { "name": "Goldston, Justin", "type": "personal" }
+  ],
+  "keywords": [
+    "DAO",
+    "Decentralized Autonomous Organization",
+    "Web3",
+    "on-chain AI",
+    "AI agents",
+    "multi-agent systems",
+    "governance",
+    "Solidity",
+    "smart contracts",
+    "token-gated agents",
+    "incentivized symbiosis",
+    "human-agent coevolution",
+    "Gemach D.A.T.A. I",
+    "Astrophysics Data System",
+    "Harvard ADS",
+    "Smithsonian Astrophysical Observatory",
+    "NASA Cooperative Agreement 80NSSC21M0056"
+  ],
+  "license": "other-open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/GemachDAO",
+      "relation": "isSourceOf",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://github.com/GemachDAO/DAO/commits/main/",
+      "relation": "hasPart",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://arxiv.org/abs/2412.06855",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-preprint"
+    },
+    {
+      "identifier": "https://ui.adsabs.harvard.edu/abs/2024arXiv241206855J/abstract",
+      "relation": "isIdenticalTo",
+      "resource_type": "publication-preprint"
+    },
+    {
+      "identifier": "https://ui.adsabs.harvard.edu/about/history/",
+      "relation": "references",
+      "resource_type": "webpage"
+    }
+  ]
+}
