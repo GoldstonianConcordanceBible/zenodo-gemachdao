@@ -1,0 +1,32 @@
+{
+  "title": "Practice Like a Pro: The Greensboro Batting Center Method",
+  "upload_type": "publication",
+  "publication_type": "book",
+  "description": "Manuscript and companion assets for 'Practice Like a Pro: The Greensboro Batting Center Method' (Justin Goldston, PhD). Focus: standards-based player development, leadership formation, and entrepreneurship lessons from a long-running baseball training culture.",
+  "creators": [
+    {
+      "name": "Goldston, Justin",
+      "affiliation": "Independent"
+    }
+  ],
+  "keywords": [
+    "baseball",
+    "batting",
+    "player development",
+    "coaching",
+    "youth sports",
+    "leadership",
+    "entrepreneurship",
+    "training",
+    "sports culture"
+  ],
+  "license": "CC-BY-4.0",
+  "notes": "If this repository includes third-party images/logos, ensure permission before release. Zenodo archives releases permanently.",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/<YOUR_GITHUB_ORG_OR_USER>/practice-like-a-pro-gbc-method",
+      "relation": "isSupplementTo",
+      "resource_type": "publication-book"
+    }
+  ]
+}
