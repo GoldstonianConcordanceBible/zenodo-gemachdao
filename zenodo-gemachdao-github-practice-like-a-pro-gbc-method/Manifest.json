@@ -1,0 +1,221 @@
+{
+  "manifest_version": "1.0.0",
+  "project": {
+    "title": "Practice Like a Pro: The Greensboro Batting Center Method — Companion Agents",
+    "short_name": "plap-companion-agents",
+    "description": "A four-agent companion pack (player, parent, coach, entrepreneur) plus crosswalk for the book 'Practice Like a Pro: The Greensboro Batting Center Method'.",
+    "author": "Justin Goldston, PhD",
+    "license": "CC-BY-4.0"
+  },
+  "generated_at_utc": "2026-01-31T00:00:00Z",
+  "root": "agents/",
+  "files": [
+    {
+      "path": "agents/CROSSWALK.md",
+      "role": "navigation",
+      "description": "Maps book chapters to agent modes, prompts, templates, and outputs."
+    },
+
+    {
+      "path": "agents/plap-player-agent/README.md",
+      "role": "documentation",
+      "description": "Overview of the PLAP Player Agent."
+    },
+    {
+      "path": "agents/plap-player-agent/AGENT_CARD.md",
+      "role": "metadata",
+      "description": "Audience, goals, tone, and non-negotiables for Player Agent."
+    },
+    {
+      "path": "agents/plap-player-agent/system_prompt.md",
+      "role": "prompt",
+      "description": "System prompt for Player Agent behavior and output structure."
+    },
+    {
+      "path": "agents/plap-player-agent/prompts/START_HERE.md",
+      "role": "prompt",
+      "description": "Quick-start prompt for Player mode."
+    },
+    {
+      "path": "agents/plap-player-agent/prompts/WEEKLY_PLAN.md",
+      "role": "prompt",
+      "description": "Instruction prompt for generating 7-day plans."
+    },
+    {
+      "path": "agents/plap-player-agent/prompts/ADJUSTMENT_LOG.md",
+      "role": "prompt",
+      "description": "Instruction prompt for generating adjustment logs."
+    },
+    {
+      "path": "agents/plap-player-agent/prompts/GAME_TRANSFER.md",
+      "role": "prompt",
+      "description": "Instruction prompt for pre-game/in-game/post-game transfer routines."
+    },
+    {
+      "path": "agents/plap-player-agent/templates/WEEKLY_PLAN_TEMPLATE.md",
+      "role": "template",
+      "description": "Reusable weekly plan layout."
+    },
+    {
+      "path": "agents/plap-player-agent/templates/DAILY_SESSION_SCRIPT.md",
+      "role": "template",
+      "description": "Reusable daily session script layout."
+    },
+    {
+      "path": "agents/plap-player-agent/templates/REP_ECONOMY_TRACKER.md",
+      "role": "template",
+      "description": "Rep Economy tracking sheet."
+    },
+    {
+      "path": "agents/plap-player-agent/templates/ADJUSTMENT_LOG_TEMPLATE.md",
+      "role": "template",
+      "description": "Reusable adjustment log layout."
+    },
+    {
+      "path": "agents/plap-player-agent/evals/RUBRIC.md",
+      "role": "evaluation",
+      "description": "Quality rubric for Player Agent outputs."
+    },
+
+    {
+      "path": "agents/plap-parent-agent/README.md",
+      "role": "documentation",
+      "description": "Overview of the PLAP Parent Agent."
+    },
+    {
+      "path": "agents/plap-parent-agent/AGENT_CARD.md",
+      "role": "metadata",
+      "description": "Audience, goals, tone, and non-negotiables for Parent Agent."
+    },
+    {
+      "path": "agents/plap-parent-agent/system_prompt.md",
+      "role": "prompt",
+      "description": "System prompt for Parent Agent behavior and output structure."
+    },
+    {
+      "path": "agents/plap-parent-agent/prompts/START_HERE.md",
+      "role": "prompt",
+      "description": "Quick-start prompt for Parent mode."
+    },
+    {
+      "path": "agents/plap-parent-agent/prompts/HOME_STRUCTURE.md",
+      "role": "prompt",
+      "description": "Instruction prompt for home routines and structure."
+    },
+    {
+      "path": "agents/plap-parent-agent/prompts/CAR_RIDE_RULES.md",
+      "role": "prompt",
+      "description": "Instruction prompt for car-ride rules and scripts."
+    },
+    {
+      "path": "agents/plap-parent-agent/prompts/COACH_COMMUNICATION.md",
+      "role": "prompt",
+      "description": "Instruction prompt for respectful coach communication."
+    },
+    {
+      "path": "agents/plap-parent-agent/templates/PARENT_STRUCTURE_PLAN.md",
+      "role": "template",
+      "description": "Reusable parent structure plan layout."
+    },
+    {
+      "path": "agents/plap-parent-agent/templates/CAR_RIDE_SCRIPT.md",
+      "role": "template",
+      "description": "Reusable post-game car ride script."
+    },
+    {
+      "path": "agents/plap-parent-agent/templates/COACH_EMAIL_SCRIPT.md",
+      "role": "template",
+      "description": "Reusable coach email/script template."
+    },
+    {
+      "path": "agents/plap-parent-agent/templates/STANDARD_PROTECTION_CHECKLIST.md",
+      "role": "template",
+      "description": "Weekly checklist to reinforce standards."
+    },
+    {
+      "path": "agents/plap-parent-agent/evals/RUBRIC.md",
+      "role": "evaluation",
+      "description": "Quality rubric for Parent Agent outputs."
+    },
+
+    {
+      "path": "agents/plap-coach-agent/README.md",
+      "role": "documentation",
+      "description": "Overview of the PLAP Coach Agent."
+    },
+    {
+      "path": "agents/plap-coach-agent/AGENT_CARD.md",
+      "role": "metadata",
+      "description": "Audience, goals, tone, and non-negotiables for Coach Agent."
+    },
+    {
+      "path": "agents/plap-coach-agent/system_prompt.md",
+      "role": "prompt",
+      "description": "System prompt for Coach Agent behavior and output structure."
+    },
+    {
+      "path": "agents/plap-coach-agent/prompts/START_HERE.md",
+      "role": "prompt",
+      "description": "Quick-start prompt for Coach mode."
+    },
+    {
+      "path": "agents/plap-coach-agent/prompts/SESSION_DESIGN.md",
+      "role": "prompt",
+      "description": "Instruction prompt for station-based session design."
+    },
+    {
+      "path": "agents/plap-coach-agent/prompts/CORRECTION_LANGUAGE.md",
+      "role": "prompt",
+      "description": "Instruction prompt for correction language scripts."
+    },
+    {
+      "path": "agents/plap-coach-agent/prompts/DEVELOPMENT_LADDER.md",
+      "role": "prompt",
+      "description": "Instruction prompt for building level-based skill ladders."
+    },
+    {
+      "path": "agents/plap-coach-agent/templates/SESSION_60_MIN.md",
+      "role": "template",
+      "description": "Reusable 60-minute session plan."
+    },
+    {
+      "path": "agents/plap-coach-agent/templates/SESSION_90_MIN.md",
+      "role": "template",
+      "description": "Reusable 90-minute session plan."
+    },
+    {
+      "path": "agents/plap-coach-agent/templates/STATION_CARDS.md",
+      "role": "template",
+      "description": "Print-friendly station cards."
+    },
+    {
+      "path": "agents/plap-coach-agent/templates/PLAYER_EVAL_RUBRIC.md",
+      "role": "template",
+      "description": "Player evaluation rubric aligned to PLAP standards."
+    },
+    {
+      "path": "agents/plap-coach-agent/evals/RUBRIC.md",
+      "role": "evaluation",
+      "description": "Quality rubric for Coach Agent outputs."
+    },
+
+    {
+      "path": "agents/plap-entrepreneur-agent/README.md",
+      "role": "documentation",
+      "description": "Overview of the PLAP Entrepreneur Agent."
+    },
+    {
+      "path": "agents/plap-entrepreneur-agent/AGENT_CARD.md",
+      "role": "metadata",
+      "description": "Audience, goals, tone, and non-negotiables for Entrepreneur Agent."
+    },
+    {
+      "path": "agents/plap-entrepreneur-agent/system_prompt.md",
+      "role": "prompt",
+      "description": "System prompt for Entrepreneur Agent behavior and output structure."
+    },
+    {
+      "path": "agents/plap-entrepreneur-agent/prompts/START_HERE.md",
+      "role": "prompt",
+      "description": "Quick-start prompt for Entrepreneur mode."
+   
