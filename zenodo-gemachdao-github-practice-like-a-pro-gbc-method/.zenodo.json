@@ -1,8 +1,8 @@
 {
-  "title": "Practice Like a Pro: The Greensboro Batting Center Method",
+  "title": "Practice Like a Pro: The Greensboro Batting Center Method — Manuscript + Companion Agents (PLAP Pack)",
   "upload_type": "publication",
   "publication_type": "book",
-  "description": "Manuscript and companion assets for 'Practice Like a Pro: The Greensboro Batting Center Method' (Justin Goldston, PhD). Focus: standards-based player development, leadership formation, and entrepreneurship lessons from a long-running baseball training culture.",
+  "description": "Citable archive of the manuscript for 'Practice Like a Pro: The Greensboro Batting Center Method' (Justin Goldston, PhD) plus a companion four-agent toolkit (Player/Parent/Coach/Entrepreneur) and navigation spine (CROSSWALK.md + MANIFEST.json) enabling repeatable training plans, coaching session scripts, parent routines, and facility operating systems aligned to Reps • Responsibility • Resilience.",
   "creators": [
     {
       "name": "Goldston, Justin",
@@ -11,20 +11,23 @@
   ],
   "keywords": [
     "baseball",
-    "batting",
+    "youth sports",
     "player development",
     "coaching",
-    "youth sports",
+    "training methodology",
     "leadership",
     "entrepreneurship",
-    "training",
-    "sports culture"
+    "sports culture",
+    "practice design",
+    "facility operations",
+    "accountability",
+    "resilience"
   ],
   "license": "CC-BY-4.0",
-  "notes": "If this repository includes third-party images/logos, ensure permission before release. Zenodo archives releases permanently.",
+  "notes": "Zenodo GitHub integration mints DOIs per repository (not subfolders). If archiving from this subfolder, create a release ZIP bundle and upload it to Zenodo. Ensure any images/logos included are owned or used with permission.",
   "related_identifiers": [
     {
-      "identifier": "https://github.com/<YOUR_GITHUB_ORG_OR_USER>/practice-like-a-pro-gbc-method",
+      "identifier": "https://github.com/GoldstonianConcordanceBible/zenodo-gemachdao/tree/main/zenodo-gemachdao-github-practice-like-a-pro-gbc-method",
       "relation": "isSupplementTo",
       "resource_type": "publication-book"
     }
