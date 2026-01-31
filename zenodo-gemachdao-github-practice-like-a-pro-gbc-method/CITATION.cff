@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it."
+title: "Practice Like a Pro: The Greensboro Batting Center Method"
+type: book
+authors:
+  - family-names: Goldston
+    given-names: Justin
+    name-suffix: PhD
+keywords:
+  - baseball
+  - player development
+  - coaching
+  - youth sports
+  - entrepreneurship
+  - leadership
+  - training methodology
+license: CC-BY-4.0
+repository-code: "https://github.com/<YOUR_GITHUB_ORG_OR_USER>/practice-like-a-pro-gbc-method"
+url: "https://github.com/<YOUR_GITHUB_ORG_OR_USER>/practice-like-a-pro-gbc-method"
+abstract: >
+  A leadership-and-entrepreneurship framed baseball development book grounded in a
+  forty-year training culture that prioritizes standards, reps, responsibility,
+  resilience, and long-view formation for players and families.
