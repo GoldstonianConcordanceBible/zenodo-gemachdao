@@ -1,0 +1,26 @@
+# Global Social Experiment (Georgetown) — Podcast Artifact (NU Transcript)
+
+This repository is a citable evidence package documenting where the phrase **“global social experiment”** is explicitly used to describe a project underway at **Georgetown University**, as stated in the transcript of a National University podcast episode.
+
+## What this repo is
+- A **source-of-truth evidence bundle** for citation (GitHub → Zenodo DOI).
+- A **machine-readable claim package**: minimal excerpt + structured metadata + verification steps.
+- Copyright-safe: **no full transcript reproduced**.
+
+## Primary source (canonical URL)
+National University Podcast episode page (includes transcript):
+- https://www.nu.edu/podcast/business-and-marketing/unleashing-ai-transforming-marketing-finance-and-society/
+
+## Claim (human-readable)
+In the episode transcript, Dr. Justin Goldston refers to **“week three” at Georgetown University** as **“a global social experiment”** involving the use of autonomous agents in practice.
+
+See:
+- `artifacts/notes/claim-statement.md`
+- `artifacts/excerpts/excerpt-001.*`
+- `artifacts/source/source-metadata.json`
+
+## How to cite
+Use `CITATION.cff` (recommended) or see `docs/how-to-cite.md`.
+
+## License
+MIT for repository contents (metadata, notes, prompts). The source page and transcript remain property of their respective rights holders.
