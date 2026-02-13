@@ -1,0 +1,42 @@
+{
+  "title": "The Foundations of the Global Social Experiment: Transcript-Linked Research Artifact (National University Podcast Episode)",
+  "authors": [
+    {
+      "name": "Justin Goldston",
+      "orcid": "https://orcid.org/0000-0002-3923-5072",
+      "affiliation": "National University (Logistics & Supply Chain Program)"
+    }
+  ],
+  "type": "dataset",
+  "published_date": "2024-11-05",
+  "description": "This record provides a transcript-linked research artifact derived from the National University Podcast episode “Unleashing AI: Transforming Marketing, Finance, and Society.” The official episode page contains the full transcript and is treated as the source of record; this deposit does not re-publish the transcript text and instead supplies structured notes, citation anchors, and a reproducible academic framing.\n\nHighlighted citation anchor (timestamp ~0:14:00; speaker: Dr. Justin Goldston): “I’m at Georgetown University right now… week three… a global social experiment… using autonomous agents.”\nParaphrase: The speaker argues AI will transform every industry (not only fintech), especially by replacing repetitive work; he describes an early-stage university experiment applying autonomous agents in practice and observing results in real time.",
+  "keywords": [
+    "autonomous agents",
+    "AI adoption",
+    "ethical AI",
+    "blockchain",
+    "fintech",
+    "marketing",
+    "future of work",
+    "higher education",
+    "digital transformation",
+    "governance"
+  ],
+  "language": "en",
+  "license": "CC-BY-4.0",
+  "related_materials": [
+    {
+      "label": "Official episode page (full transcript source of record)",
+      "url": "https://www.nu.edu/podcast/business-and-marketing/unleashing-ai-transforming-marketing-finance-and-society/"
+    }
+  ],
+  "files_expected": [
+    "README.md",
+    "episode_summary.md",
+    "show_notes.md",
+    "citation_anchor.md",
+    "metadata.json",
+    "CITATION.cff"
+  ],
+  "version": "1.0.0"
+}
