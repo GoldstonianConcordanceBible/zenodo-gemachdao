@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this research artifact, please cite it as below."
+title: "The Foundations of the Global Social Experiment: Transcript-Linked Research Artifact (National University Podcast Episode)"
+type: report
+authors:
+  - family-names: Goldston
+    given-names: Justin
+    orcid: "https://orcid.org/0000-0002-3923-5072"
+    affiliation: "National University (Logistics & Supply Chain Program)"
+version: 1.0.0
+date-released: 2024-11-05
+keywords:
+  - autonomous agents
+  - AI adoption
+  - ethical AI
+  - blockchain
+  - fintech
+  - marketing
+  - future of work
+  - higher education
+  - digital transformation
+  - governance
+references:
+  - type: webpage
+    title: "Unleashing AI: Transforming Marketing, Finance, and Society (National University Podcast — full transcript source)"
+    url: "https://www.nu.edu/podcast/business-and-marketing/unleashing-ai-transforming-marketing-finance-and-society/"
+license: "CC-BY-4.0"
