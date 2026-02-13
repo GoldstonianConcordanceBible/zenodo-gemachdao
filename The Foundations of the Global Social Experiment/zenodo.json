@@ -1,0 +1,46 @@
+{
+  "title": "The Foundations of the Global Social Experiment: Transcript-Linked Research Artifact (National University Podcast Episode)",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "publication_date": "2024-11-05",
+  "description": "<p><strong>Source of record (full transcript):</strong> National University Podcast episode page (see Related Identifier).</p><p><strong>What this Zenodo record contains:</strong> a transcript-linked research artifact (episode synopsis, structured notes, and citation scaffolding) designed for academic reference and curriculum building. This record intentionally does <em>not</em> re-publish the full transcript; it points to the official NU page as the authoritative source.</p><p><strong>Highlighted citation anchor (timestamp ~0:14:00; speaker: Dr. Justin Goldston):</strong><br/><em>Short excerpt (for citation anchoring):</em> “I’m at Georgetown University right now… week three… a global social experiment… using autonomous agents.”</p><p><strong>Paraphrase of the highlighted passage:</strong> The speaker argues that AI’s job impact extends beyond fintech to every industry, especially replacing repetitive tasks; he describes an ongoing university-based experiment applying autonomous agents in practice and observing results early in week three.</p>",
+  "creators": [
+    {
+      "name": "Goldston, Justin",
+      "affiliation": "National University (Logistics & Supply Chain Program)",
+      "orcid": "0000-0002-3923-5072"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Markham, Paul",
+      "type": "Other"
+    },
+    {
+      "name": "King, Kimberly",
+      "type": "Other"
+    }
+  ],
+  "keywords": [
+    "autonomous agents",
+    "AI adoption",
+    "ethical AI",
+    "blockchain",
+    "fintech",
+    "marketing",
+    "future of work",
+    "higher education",
+    "digital transformation",
+    "governance"
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://www.nu.edu/podcast/business-and-marketing/unleashing-ai-transforming-marketing-finance-and-society/",
+      "resource_type": "publication-article"
+    }
+  ]
+}
